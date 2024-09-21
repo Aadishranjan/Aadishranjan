@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://Aadishranjan.io)
 <h1 align="center">Hi 👋, I'm Aadish ranjan</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time | Frontend & Backend Developer | India</h3>
 
