@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aadish ranjan</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time | Frontend & Backend Developer | India</h3>
 
+<img aline="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on [React app](Not available)
 
 - 🌱 I’m currently learning **React, react native**
