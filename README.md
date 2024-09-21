@@ -6,7 +6,7 @@
 
 👨‍💻 Check out my projects at My GitHub
 
-💬 Ask me about JavaScript, GSAP, and Data Association.
+💬 Ask me about JavaScript, Node, GSAP, and Data Association.
 
 📫 Reach me at aadishranjan35@gmail.com
 
