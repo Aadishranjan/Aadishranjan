@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/AadishQR.png" alt="Donate QR" width="420px" />
+  <img src="https://raw.githubusercontent.com/Aadishranjan/Aadishranjan/main/assets/AadishQR.png" alt="Donate QR" width="420px" />
 </p>
 
 <p align="center"><b>UPI ID:</b> aadishranjan@axl</p>
